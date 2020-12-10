@@ -13,6 +13,7 @@
 		4EF0EFD72581B31E00EC675E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EF0EFD52581B31E00EC675E /* Main.storyboard */; };
 		4EF0EFD92581B31F00EC675E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4EF0EFD82581B31F00EC675E /* Assets.xcassets */; };
 		4EF0EFDC2581B31F00EC675E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4EF0EFDA2581B31F00EC675E /* LaunchScreen.storyboard */; };
+		4EF0EFE42581B95700EC675E /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF0EFE32581B95700EC675E /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4EF0EFD82581B31F00EC675E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4EF0EFDB2581B31F00EC675E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4EF0EFDD2581B31F00EC675E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4EF0EFE32581B95700EC675E /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				4EF0EFD82581B31F00EC675E /* Assets.xcassets */,
 				4EF0EFDA2581B31F00EC675E /* LaunchScreen.storyboard */,
 				4EF0EFDD2581B31F00EC675E /* Info.plist */,
+				4EF0EFE32581B95700EC675E /* MapViewController.swift */,
 			);
 			path = mylocation;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				4EF0EFD42581B31E00EC675E /* ViewController.swift in Sources */,
 				4EF0EFD02581B31E00EC675E /* AppDelegate.swift in Sources */,
 				4EF0EFD22581B31E00EC675E /* SceneDelegate.swift in Sources */,
+				4EF0EFE42581B95700EC675E /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
